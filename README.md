@@ -25,3 +25,24 @@ src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:9B2C4B
 <img src="https://img.shields.io/badge/PAKISTAN-18C964?style=for-the-badge"/>
 
 </div>
+<!-- ====================================================== -->
+<!--                 ABOUT ME SECTION                       -->
+<!-- ====================================================== -->
+
+---
+
+# 🧠 About Me
+
+⚡ I am an **Electrical Engineering student at Air University** with a strong interest in **Power Engineering, Electrical Systems, Energy Technologies, and Engineering Computing**.
+
+I am developing my knowledge of electrical engineering while strengthening my programming and problem-solving skills through **C++, Data Structures & Algorithms, MATLAB, and engineering simulation tools**.
+
+My goal is to combine **Electrical Engineering + Programming + Engineering Analysis** to work on modern power and energy systems.
+
+```text
++ Electrical Engineering Student @ Air University
++ Power Engineering & Energy Systems
++ C++ & Data Structures
++ MATLAB & Engineering Computing
++ Electrical Systems & Circuit Analysis
++ Building practical engineering projects
