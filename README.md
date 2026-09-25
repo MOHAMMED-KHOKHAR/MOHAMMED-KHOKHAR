@@ -1,49 +1,147 @@
-<!-- ====================================================== -->
-<!--          MUHAMMAD BIN WAHEED — GITHUB PROFILE          -->
-<!-- ====================================================== -->
+# 🚀 Featured Engineering Projects
 
 <div align="center">
 
-<img width="100%"
-src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:9B2C4B,50:512B58,100:102A43&text=Muhammad%20Bin%20Waheed&fontSize=48&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn"/>
+### ⚡ Power Engineering • Energy Systems • Simulation • Algorithms
 
-<h2>⚡ Electrical Engineering Student</h2>
-
-<h3>Power Engineering • Energy Systems • Engineering Computing</h3>
+</div>
 
 <br>
 
-<img src="https://img.shields.io/badge/🎓_AIR_UNIVERSITY-EF476F?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/⚡_ELECTRICAL_ENGINEERING-0066CC?style=for-the-badge"/>
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+<h3 align="center">⚡ Smart Power Monitoring System</h3>
+
+<p align="center">
+<img src="https://img.shields.io/badge/STATUS-IN_DEVELOPMENT-FF9F1C?style=for-the-badge"/>
+</p>
+
+Advanced electrical monitoring project for analyzing important power and energy parameters.
+
+**⚙️ Key Features**
+- Voltage & Current Monitoring
+- Active Power Calculation
+- Energy Consumption Analysis
+- Overload Detection
+- Power Usage Analysis
+- System Efficiency Monitoring
+
+<p align="center">
+<img src="https://img.shields.io/badge/POWER_SYSTEMS-0057B8?style=flat-square"/>
+<img src="https://img.shields.io/badge/ENERGY_MONITORING-18C964?style=flat-square"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus"/>
+</p>
+
+</td>
+
+
+<td width="50%" valign="top">
+
+<h3 align="center">🔌 Power System Load Flow Analysis</h3>
+
+<p align="center">
+<img src="https://img.shields.io/badge/STATUS-PLANNED-7B2CBF?style=for-the-badge"/>
+</p>
+
+Power-network analysis project for studying electrical system operating conditions.
+
+**⚙️ Key Features**
+- Bus Voltage Analysis
+- Active Power Analysis
+- Reactive Power Analysis
+- Transmission Line Modelling
+- Network Loss Analysis
+- Power Flow Calculations
+
+<p align="center">
+<img src="https://img.shields.io/badge/MATLAB-FF8C00?style=flat-square"/>
+<img src="https://img.shields.io/badge/LOAD_FLOW-E63946?style=flat-square"/>
+<img src="https://img.shields.io/badge/POWER_NETWORKS-0057B8?style=flat-square"/>
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3 align="center">☀️ Solar PV Performance Analyzer</h3>
+
+<p align="center">
+<img src="https://img.shields.io/badge/STATUS-PLANNED-7B2CBF?style=for-the-badge"/>
+</p>
+
+Renewable-energy analysis project for evaluating photovoltaic system performance under different operating conditions.
+
+**⚙️ Key Features**
+- Solar PV Characteristics
+- Voltage & Current Analysis
+- Power Generation Estimation
+- Energy Efficiency Analysis
+- Performance Visualization
+- Operating Condition Comparison
+
+<p align="center">
+<img src="https://img.shields.io/badge/SOLAR_PV-FFD60A?style=flat-square"/>
+<img src="https://img.shields.io/badge/MATLAB-FF8C00?style=flat-square"/>
+<img src="https://img.shields.io/badge/RENEWABLE_ENERGY-18C964?style=flat-square"/>
+</p>
+
+</td>
+
+
+<td width="50%" valign="top">
+
+<h3 align="center">🗺️ Intelligent Route Optimization Engine</h3>
+
+<p align="center">
+<img src="https://img.shields.io/badge/STATUS-COMPLETED-18C964?style=for-the-badge"/>
+</p>
+
+Graph-based optimization system for finding efficient routes using shortest-path computation.
+
+**⚙️ Implemented Features**
+- Weighted Graph Representation
+- Dijkstra's Algorithm
+- Dynamic Route Calculation
+- Distance Optimization
+- Graph Traversal
+- Shortest Path Selection
+
+<p align="center">
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus"/>
+<img src="https://img.shields.io/badge/DIJKSTRA-7B2CBF?style=flat-square"/>
+<img src="https://img.shields.io/badge/GRAPH_ALGORITHMS-0066CC?style=flat-square"/>
+</p>
+
+</td>
+
+</tr>
+</table>
 
 <br>
 
-<img src="https://img.shields.io/badge/🔌_POWER_ENGINEERING-FF3B30?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/💻_C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/🧠_DSA-7B2CBF?style=for-the-badge"/>
+<div align="center">
+
+### ⚙️ Engineering Development Roadmap
+
+`POWER SYSTEMS` → `SIMULATION` → `MONITORING` → `ANALYSIS` → `OPTIMIZATION`
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=muhammadkhokharkk-debug&label=PROFILE%20VIEWS&color=EF476F&style=for-the-badge"/>
-<img src="https://img.shields.io/badge/📍_ISLAMABAD-555555?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/PAKISTAN-18C964?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/⚡_POWER_ENGINEERING-CORE_INTEREST-E63946?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/🔋_ENERGY_SYSTEMS-EXPLORING-18C964?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/💻_ENGINEERING_COMPUTING-DEVELOPING-0066CC?style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 🧠 About Me
-
-⚡ **Electrical Engineering student at Air University**, developing a foundation across **power engineering, electrical systems, energy technologies, programming, and engineering problem solving**.
-
-My primary academic direction is **Power Engineering**, while I also work with **C++, Data Structures & Algorithms, MATLAB, circuit simulation, and computational engineering concepts**.
-
-I am particularly interested in connecting traditional electrical engineering with modern **monitoring, automation, renewable energy, optimization, and intelligent energy systems**.
-
-```text
-+ Electrical Engineering Student @ Air University
-+ Focus: Power Engineering & Energy Systems
-+ Programming: C++ & Data Structures
-+ Engineering Computing: MATLAB
-+ Circuit & Digital System Fundamentals
-+ Building practical engineering projects
+# 📚 Relevant Coursework
