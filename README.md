@@ -1,153 +1,223 @@
-# ⚡ Muhammad Bin Waheed
+<!-- ===================== HEADER ===================== -->
 
-### Electrical Engineering Student · Power Engineering · C++ · DSA
+<div align="center">
 
-> Building a strong foundation in electrical power systems, programming, and engineering problem-solving.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=12,20,24&text=Muhammad%20Bin%20Waheed&fontSize=50&fontColor=ffffff&fontAlignY=38&animation=fadeIn"/>
 
----
+<h1>⚡ Electrical Engineering Student</h1>
 
-## ⚡ About Me
+<h3>Power Engineering • Programming • Technology</h3>
 
-Electrical Engineering student with a growing interest in **Power Engineering, Electrical Systems, Circuit Analysis, and Programming**.
+<br>
 
-Alongside my core electrical engineering studies, I work with **C++ and Data Structures & Algorithms**, combining programming concepts with engineering problem-solving.
+<!-- ===================== MAIN BADGES ===================== -->
 
-    + Electrical Engineering Student
-    + Power Engineering Specialization
-    + C++ & Data Structures enthusiast
-    + Interested in Power Systems & Electrical Technologies
+<img src="https://img.shields.io/badge/🎓_AIR_UNIVERSITY-EF476F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/⚡_ELECTRICAL_ENGINEERING-0057B8?style=for-the-badge"/>
 
----
+<br>
 
-## 🎓 Education
+<img src="https://img.shields.io/badge/🔌_POWER_ENGINEERING-FF3B30?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/💻_C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/🧠_DSA-7B2CBF?style=for-the-badge"/>
 
-| Institution | Program | Period |
-|---|---|---|
-| **Air University, Islamabad** | Electrical Engineering | 2024 – Present |
-| **[College Name]** | [Program] | 2020 – 2022 |
+<br><br>
 
-**Focus Areas:** Power Engineering · Circuit Analysis · Electrical Machines · Digital Logic Design · Electronics · Programming
+<!-- ===================== PROFILE INFO ===================== -->
 
----
+<img src="https://komarev.com/ghpvc/?username=muhammadkhokharkk-debug&label=PROFILE+VIEWS&color=ef476f&style=for-the-badge"/>
 
-## 🔌 Engineering Focus
+<img src="https://img.shields.io/badge/📍_ISLAMABAD-555555?style=for-the-badge"/>
 
-| Area | Focus |
-|---|---|
-| ⚡ Power Engineering | Power systems and electrical energy |
-| 🔌 Circuit Analysis | Electrical networks and circuit fundamentals |
-| ⚙️ Electrical Machines | Transformers, motors and generators |
-| 💡 Digital Logic | Logic circuits and digital systems |
-| 💻 Programming | C++ and problem solving |
-| 🧠 DSA | Algorithms and data structures |
+<img src="https://img.shields.io/badge/PAKISTAN-18C964?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/⚡_POWER_ENGINEERING-FF9F1C?style=for-the-badge"/>
+
+</div>
 
 ---
 
-## 🚀 Featured Projects
+# 🧠 About Me
 
-| Project | Type | Description |
-|---|---|---|
-| **Road Traffic Analysis System** | 🟢 DSA | Food Delivery Route Planner using Dijkstra's shortest-path algorithm |
-| **Library Book Management System** | 🔵 DSA | Hash-table based system using quadratic probing |
-| **Binary Search Tree** | 🟣 C++ | BST implementation with insertion, deletion, searching and traversals |
-| **Tic-Tac-Toe** | 🟠 C++ | Console game developed using 2D arrays and programming fundamentals |
+I am an **Electrical Engineering student at Air University**, with a strong interest in **Power Engineering, Electrical Systems, Programming, and modern engineering technologies**.
 
----
+I enjoy learning engineering concepts and applying programming and problem-solving techniques to practical projects.
 
-# 🛠️ Technical Skills
-
-## ⚡ Electrical Engineering
-
-![Power Systems](https://img.shields.io/badge/Power_Systems-Engineering-orange?style=for-the-badge)
-![Circuit Analysis](https://img.shields.io/badge/Circuit_Analysis-Electrical-blue?style=for-the-badge)
-![Digital Logic](https://img.shields.io/badge/Digital_Logic-DLD-green?style=for-the-badge)
-![Electrical Machines](https://img.shields.io/badge/Electrical_Machines-Power-red?style=for-the-badge)
-
-## 💻 Programming & Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,git,github,vscode" />
-</p>
-
-![C++](https://img.shields.io/badge/C++-Programming-blue?style=flat-square&logo=cplusplus)
-![DSA](https://img.shields.io/badge/Data_Structures_%26_Algorithms-DSA-green?style=flat-square)
-![OOP](https://img.shields.io/badge/Object_Oriented_Programming-OOP-purple?style=flat-square)
-
-## 🔧 Engineering Tools
-
-![Proteus](https://img.shields.io/badge/Proteus-Circuit_Simulation-blue?style=for-the-badge)
-![MATLAB](https://img.shields.io/badge/MATLAB-Engineering-orange?style=for-the-badge&logo=mathworks)
+- 🎓 Electrical Engineering Student
+- ⚡ Interested in Power Engineering
+- 🔌 Interested in Power Systems & Electrical Machines
+- 💻 Working with C++
+- 🧠 Learning Data Structures & Algorithms
+- 🚀 Interested in practical engineering projects
+- 📍 Islamabad, Pakistan
 
 ---
 
-## 📚 Core Coursework
+# 🎓 Education
 
-- ⚡ Circuit Analysis
-- 💡 Digital Logic Design
-- ⚙️ Electrical Machines
-- 📊 Probability Methods in Engineering
-- 💻 Data Structures & Algorithms
-- 🔌 Electronics
+<table>
+<tr>
+<td width="25%"><b>🏫 Institution</b></td>
+<td width="30%"><b>📚 Program</b></td>
+<td width="20%"><b>📅 Duration</b></td>
+<td width="25%"><b>⚡ Focus</b></td>
+</tr>
+
+<tr>
+<td><b>Air University</b></td>
+<td>Electrical Engineering</td>
+<td>2024 – Present</td>
+<td>Power Engineering</td>
+</tr>
+
+</table>
 
 ---
 
-## 📜 Certifications & Training
+# ⚡ Engineering Interests
 
-| Certification / Training | Organization | Year |
-|---|---|---|
-| Add your certification here | Organization | 2026 |
-| Add your training here | Organization | 2026 |
+<div align="center">
+
+<img src="https://img.shields.io/badge/POWER_SYSTEMS-FF6B35?style=for-the-badge&logo=lightning&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/ELECTRICAL_MACHINES-0077B6?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/CIRCUIT_ANALYSIS-00B4D8?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/DIGITAL_LOGIC-7209B7?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/ELECTRONICS-E63946?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/RENEWABLE_ENERGY-2DC653?style=for-the-badge"/>
+
+</div>
+
+---
+
+# 💻 Technical Skills
+
+### 👨‍💻 Programming
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,git,github,vscode"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/DATA_STRUCTURES-2E8B57?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/ALGORITHMS-F72585?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/OOP-8338EC?style=for-the-badge"/>
+
+</div>
+
+### 🔧 Engineering Tools
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/PROTEUS-0078D4?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/MATLAB-FF8C00?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+### 🚦 Road Traffic Analysis System
+**Food Delivery Route Planner**
+
+> A route planning system using **Dijkstra's Algorithm** to determine the shortest path between different locations.
+
+`C++` `DSA` `Graphs` `Dijkstra Algorithm`
+
+---
+
+### 📚 Library Book Management System
+
+> Library management system implementing **Hashing with Quadratic Probing** for efficient storage and searching.
+
+`C++` `Hashing` `Quadratic Probing` `DSA`
+
+---
+
+### 🌳 Binary Search Tree
+
+> Implementation of Binary Search Tree with insertion, searching, deletion and tree traversal operations.
+
+`C++` `BST` `Trees` `Data Structures`
+
+---
+
+### 🎮 Tic-Tac-Toe
+
+> Console-based Tic-Tac-Toe game developed using C++ and two-dimensional arrays.
+
+`C++` `2D Arrays` `Programming Fundamentals`
+
+---
+
+# 📚 Relevant Coursework
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/CIRCUIT_ANALYSIS-EE-red?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/DIGITAL_LOGIC_DESIGN-DLD-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/ELECTRICAL_MACHINES-POWER-orange?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/PROBABILITY_METHODS-ENGINEERING-purple?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/DATA_STRUCTURES-DSA-green?style=for-the-badge"/>
+
+</div>
 
 ---
 
 # 📊 GitHub Analytics
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=muhammadkhokharkk-debug&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadkhokharkk-debug&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=muhammadkhokharkk-debug&show_icons=true&theme=tokyonight&hide_border=true"/>
 
----
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadkhokharkk-debug&layout=compact&theme=tokyonight&hide_border=true"/>
 
-## 🎯 Current Focus
+</div>
 
-⚡ Strengthening my knowledge of **Power Engineering**
+<br>
 
-💻 Improving **C++ and Data Structures & Algorithms**
+<div align="center">
 
-🔌 Building practical **Electrical Engineering projects**
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadkhokharkk-debug&theme=tokyonight&hide_border=true"/>
 
-📚 Expanding my understanding of modern electrical technologies
+</div>
 
 ---
 
-# 🌐 Connect With Me
+# 🎯 Current Focus
 
-<p align="center">
+```text
+⚡ Power Engineering
+├── Power Systems
+├── Electrical Machines
+├── Circuit Analysis
+└── Energy Technologies
 
-<a href="YOUR_LINKEDIN_LINK">
-<img src="https://img.shields.io/badge/LinkedIn-Muhammad_Bin_Waheed-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/muhammadkhokharkk-debug">
-<img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</p>
-
----
-
-<p align="center">
-  <b>⚡ Engineering ideas into real-world solutions.</b>
-</p>
-
-<p align="center">
-  Electrical Engineering · Power · Programming · Technology
-</p>
+💻 Programming
+├── C++
+├── Data Structures
+├── Algorithms
+└── Problem Solving
